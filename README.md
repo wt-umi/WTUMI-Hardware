@@ -1,8 +1,8 @@
-# LATUMI Hardware Guide
+# WT-UMI Hardware Guide
 
 *Large Area Tactile UMI for Force-Supervised Humanoid Manipulation*
 
-Thanks for checking out LATUMI! This page includes the LATUMI hardware CAD models and how to use them. See [https://wt-umi.github.io/WTUMI/](https://wt-umi.github.io/WTUMI/) for more info about the project.
+Thanks for checking out WT-UMI! This page includes the WT-UMI hardware CAD models and how to use them. See [https://wt-umi.github.io/WTUMI/](https://wt-umi.github.io/WTUMI/) for more info about the project.
 
 ## Bill of Materials
 
